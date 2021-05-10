@@ -1,0 +1,10 @@
+# Production ini
+ini/notifications_config.ini
+
+# Local directories
+documentation/
+log/
+
+# IDE configs
+.idea/
+.vscode/
