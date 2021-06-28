@@ -21,7 +21,7 @@ try:
 
     # Assign email you wish to have notified upon script completion
     email_recipient = config.get("TRD_INPUTS", "Email_Recipient")
-    email_cc = config.get("TRD_INPUTS", "Email_CC_")
+    email_cc = config.get("TRD_INPUTS", "Email_CC")
     ini_month = config.get("GENERAL_INPUTS", "month")
     auto_month_trigger = config.get("GENERAL_INPUTS", "auto_month")
 
